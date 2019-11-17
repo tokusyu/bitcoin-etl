@@ -26,6 +26,7 @@ Supported chains:
 - litecoin
 - dash
 - zcash
+- monacoin
 
 Stream blockchain data continually to console ([Reference](#stream)):
 
